@@ -1,0 +1,16 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Ivan Turianytsia",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.240.1",
+    "express": "^4.16.3",
+    "express-fileupload": "^0.4.0"
+  }
+}
